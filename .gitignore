@@ -1,0 +1,8 @@
+**.exe
+**.cmd
+**.zip
+
+**/.vscode/**
+**/slprj
+
+**/[Tt]est*

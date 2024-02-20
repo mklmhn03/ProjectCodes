@@ -1,0 +1,12 @@
+%PERSISTANT GRAPH: DIRECTED (Do not edit this line)
+---------------------------------------------------------
+%NODES (Do not edit this line):
+B^-7.341200
+D^-12423.000000
+C^420.000000
+A^1.123140
+%EDGES (Do not edit this line):
+B^C^-714234.322323
+D^A^-3.000000
+C^D^313412341234123.000000
+A^B^1.000000
